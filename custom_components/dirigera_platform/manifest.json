@@ -8,6 +8,6 @@
     "iot_class": "local_polling",
     "issue_tracker": "https://github.com/sanjoyg/dirigera_platform",
     "loggers": ["custom_components.dirigera_platform"],
-    "requirements": ["eric14142004@git+https://github.com/eric14142004/dirigera/"],
+    "requirements": ["git+https://github.com/eric14142004/dirigera.git@main"],
     "version": "0.0.1"
 }
