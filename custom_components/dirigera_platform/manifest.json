@@ -1,6 +1,6 @@
 {
     "domain": "dirigera_platform",
-    "name": "IKEA Dirigera Hub Integration",
+    "name": "IKEA Dirigera Hub Integration Test",
     "after_dependencies": ["http"],
     "codeowners": ["@sanjoyg"],
     "config_flow": true,
