@@ -9,8 +9,5 @@
     "issue_tracker": "https://github.com/sanjoyg/dirigera_platform",
     "loggers": ["custom_components.dirigera_platform"],
     "requirements": ["eric14142004@git+https://github.com/eric14142004/dirigera/"],
-    "requirements": [ "aubio @ git+https://git.aubio.org/aubio/aubio/" ],
-
-
     "version": "0.0.1"
 }
